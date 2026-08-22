@@ -11,4 +11,4 @@ Age-group analysis
 Interactive slicers for dynamic filtering
 Professional HR dashboard design
 ## Dataset_Used
-- <a href="https://github.com/Bhuvanesh-Balaji/Data_Analysis_Dashboard/commit/43995d7802fb772ffdf4ab2419affd1edfb425c2.xlsx">Employee_Dataset</a>
+- <a href="https://github.com/Bhuvanesh-Balaji/Data_Analysis_Dashboard/commit/43995d7802fb772ffdf4ab2419affd1edfb425c2.xlsx">HR_Dataset</a>
