@@ -10,8 +10,6 @@ Overtime and Job Satisfaction analysis
 Age-group analysis
 Interactive slicers for dynamic filtering
 Professional HR dashboard design
-## Dataset_Used
-- <a href="https://github.com/Bhuvanesh-Balaji/Data_Analysis_Dashboard/commit/43995d7802fb772ffdf4ab2419affd1edfb425c2.xlsx">Dataset</a>
 ## Tools Used
 Microsoft Excel | Pivot Tables | Pivot Charts | Advanced Excel Functions | Slicers | Dashboarding
 ## Project Process
