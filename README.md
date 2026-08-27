@@ -1,4 +1,4 @@
-# Data_Analysis_Dashboard
+# Excel_Data_Analytics_Project
 A collection of Excel data analytics projects demonstrating data cleaning, advanced Excel functions, Pivot Tables, data visualization, KPI analysis, and interactive dashboards.
 ## Key_Features
 Data cleaning and preparation
